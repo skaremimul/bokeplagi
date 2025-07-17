@@ -1,2 +1,1 @@
-# bokeplagi
-bokeplagi
+# [bokeplagi](https://bokeplagi.pages.dev)
